@@ -1,0 +1,12 @@
+1)https://www.youtube.com/watch?v=yivyNCtVVDk ---- installation process
+
+
+2)https://www.youtube.com/watch?v=9hVzEKZQyMU ---- basics on python
+
+Python's Tutorials:
+https://www.w3schools.com/python/
+https://www.tutorialspoint.com/python/index.htm
+https://www.geeksforgeeks.org/python-programming-language/learn-python-tutorial/
+
+
+ github token : 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
